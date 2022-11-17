@@ -39,3 +39,6 @@
   prefix: "§c[OWNER] "
   color: '9'
   priority: 0
+- name: staff
+  prefix: "§4[STAFF] "
+  colour: '4'
